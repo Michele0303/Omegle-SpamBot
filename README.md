@@ -1,5 +1,7 @@
 # Omegle-SpamBot
  Simple Omegle SpamBot with https://selenium.dev
+
+ <img src="https://i.imgur.com/ZLoy5z8.gif">
  
  # Requirements
  
