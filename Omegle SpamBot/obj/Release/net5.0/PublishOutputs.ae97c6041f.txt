@@ -1,0 +1,7 @@
+C:\Users\michele\Desktop\omegle-bot\Omegle SpamBot.exe
+C:\Users\michele\Desktop\omegle-bot\Omegle SpamBot.dll
+C:\Users\michele\Desktop\omegle-bot\Omegle SpamBot.deps.json
+C:\Users\michele\Desktop\omegle-bot\Omegle SpamBot.runtimeconfig.json
+C:\Users\michele\Desktop\omegle-bot\Omegle SpamBot.pdb
+C:\Users\michele\Desktop\omegle-bot\Newtonsoft.Json.dll
+C:\Users\michele\Desktop\omegle-bot\WebDriver.dll

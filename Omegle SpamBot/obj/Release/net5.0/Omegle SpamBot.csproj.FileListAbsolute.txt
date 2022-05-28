@@ -1,0 +1,19 @@
+C:\Users\michele\Desktop\Omegle SpamBot\Omegle SpamBot\bin\Release\net5.0\Omegle SpamBot.exe
+C:\Users\michele\Desktop\Omegle SpamBot\Omegle SpamBot\bin\Release\net5.0\Omegle SpamBot.deps.json
+C:\Users\michele\Desktop\Omegle SpamBot\Omegle SpamBot\bin\Release\net5.0\Omegle SpamBot.runtimeconfig.json
+C:\Users\michele\Desktop\Omegle SpamBot\Omegle SpamBot\bin\Release\net5.0\Omegle SpamBot.runtimeconfig.dev.json
+C:\Users\michele\Desktop\Omegle SpamBot\Omegle SpamBot\bin\Release\net5.0\Omegle SpamBot.dll
+C:\Users\michele\Desktop\Omegle SpamBot\Omegle SpamBot\bin\Release\net5.0\ref\Omegle SpamBot.dll
+C:\Users\michele\Desktop\Omegle SpamBot\Omegle SpamBot\bin\Release\net5.0\Omegle SpamBot.pdb
+C:\Users\michele\Desktop\Omegle SpamBot\Omegle SpamBot\bin\Release\net5.0\Newtonsoft.Json.dll
+C:\Users\michele\Desktop\Omegle SpamBot\Omegle SpamBot\bin\Release\net5.0\WebDriver.dll
+C:\Users\michele\Desktop\Omegle SpamBot\Omegle SpamBot\obj\Release\net5.0\Omegle SpamBot.csproj.AssemblyReference.cache
+C:\Users\michele\Desktop\Omegle SpamBot\Omegle SpamBot\obj\Release\net5.0\Omegle SpamBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michele\Desktop\Omegle SpamBot\Omegle SpamBot\obj\Release\net5.0\Omegle SpamBot.AssemblyInfoInputs.cache
+C:\Users\michele\Desktop\Omegle SpamBot\Omegle SpamBot\obj\Release\net5.0\Omegle SpamBot.AssemblyInfo.cs
+C:\Users\michele\Desktop\Omegle SpamBot\Omegle SpamBot\obj\Release\net5.0\Omegle SpamBot.csproj.CoreCompileInputs.cache
+C:\Users\michele\Desktop\Omegle SpamBot\Omegle SpamBot\obj\Release\net5.0\Omegle SpamBot.csproj.CopyComplete
+C:\Users\michele\Desktop\Omegle SpamBot\Omegle SpamBot\obj\Release\net5.0\Omegle SpamBot.dll
+C:\Users\michele\Desktop\Omegle SpamBot\Omegle SpamBot\obj\Release\net5.0\ref\Omegle SpamBot.dll
+C:\Users\michele\Desktop\Omegle SpamBot\Omegle SpamBot\obj\Release\net5.0\Omegle SpamBot.pdb
+C:\Users\michele\Desktop\Omegle SpamBot\Omegle SpamBot\obj\Release\net5.0\Omegle SpamBot.genruntimeconfig.cache
